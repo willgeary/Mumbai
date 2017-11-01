@@ -5,3 +5,10 @@ notebooks/.ipynb_checkpoints/Mumbai Transport Frequency-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/Mumbai Walking Street Driving Street Ratio-checkpoint.ipynb
 maps/mumbai/data/mumbai_pkdas_slum_map/slum_map_3_georeferenced.tif
 .DS_Store
+maps/mumbai/data/ciesin/GriddedPop/gpw_v4_2010.tfw
+maps/mumbai/data/ciesin/GriddedPop/gpw_v4_2010.tif
+maps/mumbai/data/ciesin/GriddedPop/gpw_v4_2010.tif.aux.xml
+maps/mumbai/data/ciesin/GriddedPop/gpw_v4_2010.tif.ovr
+maps/mumbai/data/ciesin/GriddedPop/gpw_v4_2010.tif.xml
+.DS_Store
+.DS_Store
