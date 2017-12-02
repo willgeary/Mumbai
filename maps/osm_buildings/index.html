@@ -93,6 +93,12 @@ map.on('load', function() {
     }, labelLayerId);
 });
 
+
+var marker = new mapboxgl.Marker()
+  .setLngLat([12.975118,77.579956])
+  .addTo(map);
+
+
 function switchLayer(layer) {
     var layerId = layer.target.id;
     map.setStyle('mapbox://styles/mapbox/' + layerId + '-v9');
